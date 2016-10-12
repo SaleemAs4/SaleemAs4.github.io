@@ -8,5 +8,8 @@ body {
 h1 {
     color: maroon;
 }
+p {
+  margin: 100px 150px 80px 80px;
+}
 </style>
 </head>
